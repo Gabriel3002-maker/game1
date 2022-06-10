@@ -1,0 +1,14 @@
+C:\Users\Usuario iTC\source\repos\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.exe
+C:\Users\Usuario iTC\source\repos\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.deps.json
+C:\Users\Usuario iTC\source\repos\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.runtimeconfig.json
+C:\Users\Usuario iTC\source\repos\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.runtimeconfig.dev.json
+C:\Users\Usuario iTC\source\repos\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.dll
+C:\Users\Usuario iTC\source\repos\Game1\Game1\bin\Debug\netcoreapp3.1\Game1.pdb
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.AssemblyInfo.cs
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.dll
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.pdb
+C:\Users\Usuario iTC\source\repos\Game1\Game1\obj\Debug\netcoreapp3.1\Game1.genruntimeconfig.cache
